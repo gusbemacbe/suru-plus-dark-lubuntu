@@ -1,5 +1,5 @@
 <p align="center"> 
-<img src="Title.PNG" alt="Title">
+<img src="Title.png" alt="Title">
 </p>
 
 <h3 align="center">A dark third-party Suru icons for Lubuntu 18.04 users</h3>
