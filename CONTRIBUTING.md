@@ -1,6 +1,5 @@
-
-SURU++
-URL:
+Suru++ Dark Lubuntu
+URL: https://github.com/gusbemacbe/suru-plus-dark-lubuntu
 
 The FreeDesktop Suru icon set is designed and developed by:
 

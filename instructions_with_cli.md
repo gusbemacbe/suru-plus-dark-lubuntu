@@ -8,7 +8,7 @@ Firstly, you must have `git` and `svn` installed.
 sudo apt install curl git subversion wget
 ```
 
-Choose one of two options — Git or SVN. We recommend strongly SVN, which is quicker than Git. 
+Choose one of two options — Git or SVN. We recommend strongly SVN, which is quicker like a MIllenium Falcon than Git. 
 
 ### Git
 
@@ -29,7 +29,7 @@ mv SURU-PLUS-DARK 'Suru++ Dark'
 mv suru-plus-dark-lubuntu 'Suru++ Dark Lubuntu'
 ```
 
-You do not need to download and install Sam Hewitt's Suru Icon, because it already comes installed under Ubuntu 18.04 and above
+### SVN
 
 ```shell
 # If the folder icons doesn't exist
@@ -40,6 +40,6 @@ svn export https://github.com/gusbemacbe/SURU-PLUS-DARK/trunk/ ~/.local/share/ic
 svn export https://github.com/gusbemacbe/suru-plus-dark-lubuntu/trunk/ ~/.local/share/icons/Suru++\ Dark\ Lubuntu
 # When we will update the icons, and if you want to update the icons, just overwrite
 svn export --force https://github.com/Magog64/SURU-PLUS/trunk/ ~/.local/share/icons/Suru++
-svn export https://github.com/gusbemacbe/SURU-PLUS-DARK/trunk/ ~/.local/share/icons/Suru++\ Dark
-svn export https://github.com/gusbemacbe/suru-plus-dark-lubuntu/trunk/ ~/.local/share/icons/Suru++\ Dark\ Lubuntu
+svn export --force https://github.com/gusbemacbe/SURU-PLUS-DARK/trunk/ ~/.local/share/icons/Suru++\ Dark
+svn export --force https://github.com/gusbemacbe/suru-plus-dark-lubuntu/trunk/ ~/.local/share/icons/Suru++\ Dark\ Lubuntu
 ```
