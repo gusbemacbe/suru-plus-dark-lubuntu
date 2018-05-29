@@ -10,12 +10,28 @@ This new repository is designed for Lubuntu users, who want the dark theme and t
 
 ## Installation
 
-You can choose two option — without or with CLI. We recommend to use SVN's CLI because it is quikcer like a MIllenium Falcon.  
+The good news is that, you are no longer required to depend on Sam Hewitt's and other Suru++ packs.
+
+### PPA (Ubuntu and Debian-derived)
+
+The another good news is that, you can say goodbye to non-CLI and CLI instruction, install like a Millennium Falcon. Gustavo Costa's (@gusbemacbe) official PPA is:
+
+```shell
+sudo add-apt-repository ppa:gusbemacbe/ppa
+sudo apt-get update
+sudo apt install suru-plus-pack
+```
+
+The full pack comes with all gifts - Suru++ cursor, GTK and icons themes and wallpapers. Be happy to receive daily updates.
+
+### Another alternative
+
+You can choose two options — without or with CLI. We recommend to use SVN's CLI because it is quicker like a Millennium Falcon.  
 
 * [Installation without CLI](instructions_without_cli.md)
 * [Installation with CLI](instructions_with_cli.md)
 
-### **AUR (Arch Linux and Arch-derived), PPA (Ubuntu and Debian-derived) and RPM**
+### **AUR (Arch Linux and Arch-derived), dnf (Fedora and Fedora-derived), yum (CentOS and CentOS-derived) and zypper (openSUSE)**
 
 Soon...
 
