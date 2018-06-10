@@ -1,3 +1,8 @@
+# v13
+
+* Bigest update: Suru+ Dark Lubuntu is no longer alpga or beta. It is officially released! The most of icons have been whitened for dark environment!
+* The added, fixed and updated icons were added from the repositoru Suru++.
+
 # v12
 
 * Biggest updates
